@@ -5,11 +5,14 @@
         <group>
             <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/view/Frmcliente.java</file>
             <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/model/Utilitarios.java</file>
-            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/model/WebServiceCep.java</file>
+            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/model/Funcionarios.java</file>
+            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/view/FormMenu.java</file>
             <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/jdbc/ConnectionFactory.java</file>
             <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/dao/ClientesDAO.java</file>
-            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/model/Clientes.java</file>
+            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/dao/FuncionariosDAO.java</file>
             <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/jdbc/TestaConexao.java</file>
+            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/view/FrmFuncionarios.java</file>
+            <file>file:/C:/Users/contabilidade/Documents/NetBeansProjects/JavaApplication2/src/br/com/project/view/FrmLogin.java</file>
         </group>
     </open-files>
 </project-private>

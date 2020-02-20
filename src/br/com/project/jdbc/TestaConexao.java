@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Caio Duarte
+ * @author Flavio Cavalcante
  */
 public class TestaConexao {
     
