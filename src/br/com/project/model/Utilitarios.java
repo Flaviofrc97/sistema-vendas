@@ -6,7 +6,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author contabilidade
+ * @author Flavio
  */
 public class Utilitarios {
 
