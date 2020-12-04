@@ -3,7 +3,7 @@ package br.com.project.model;
 
 /**
  *
- * @author Flavio Cavalcante
+ * @author Flavio Flavio
  */
 public class Funcionarios extends Clientes {
     
